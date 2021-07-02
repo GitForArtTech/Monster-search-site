@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+  
+}
+
+.title{
+  font-family: 'Tourney', cursive;
+  font-size: 72px;
+  color: #0ccac4;
+
 }
